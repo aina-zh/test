@@ -1,48 +1,48 @@
-# Markdown Test File
+## Markdown Test File
 
-## Text Formatting
+### Text Formatting
 
 This is a **bold** text.  
 This is an *italic* text.  
 This is a ~~strikethrough~~ text.  
 This is a `inline code` text.
 
-## Lists
+### Lists
 
-### Ordered List
+#### Ordered List
 1. Item 1
 2. Item 2
 3. Item 3
 
-### Unordered List
+#### Unordered List
 - Item A
 - Item B
 - Item C
 
-### Nested Lists
+#### Nested Lists
 - Main Item
   - Sub Item 1
   - Sub Item 2
     - Sub Sub Item A
     - Sub Sub Item B
 
-## Links and Images
+### Links and Images
 
 This is a [link to Google](https://www.google.com/).  
 ![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
-## Blockquotes
+### Blockquotes
 
 > This is a blockquote.
 
-## Code Blocks
+### Code Blocks
 
 ```python
 def hello_world():
     print("Hello, World!")
 ```
 
-## Tables
+### Tables
 
 | Name      | Age | Gender |
 |-----------|-----|--------|
@@ -50,13 +50,12 @@ def hello_world():
 | Sarah     | 30  | Female |
 | Michael   | 22  | Male   |
 
-## Horizontal Rules
+### Horizontal Rules
 
 ---
 
-## Headers
+### Headers
 
-### Header 3
 #### Header 4
 ##### Header 5
 ###### Header 6
