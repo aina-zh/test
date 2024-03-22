@@ -1,4 +1,4 @@
-## Markdown Test File
+## Test File
 
 ### Text Formatting
 
