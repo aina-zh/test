@@ -40,3 +40,26 @@ This is a [link to Google](https://www.google.com/).
 ```python
 def hello_world():
     print("Hello, World!")
+
+## Tables
+
+| Name      | Age | Gender |
+|-----------|-----|--------|
+| John      | 25  | Male   |
+| Sarah     | 30  | Female |
+| Michael   | 22  | Male   |
+
+## Horizontal Rules
+
+---
+
+## Headers
+
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+## Escaping Characters
+
+\*This text will not be italicized\*
