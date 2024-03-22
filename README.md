@@ -40,6 +40,7 @@ This is a [link to Google](https://www.google.com/).
 ```python
 def hello_world():
     print("Hello, World!")
+```
 
 ## Tables
 
