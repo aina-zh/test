@@ -23,8 +23,6 @@ This is a `inline code` text.
 - Main Item
   - Sub Item 1
   - Sub Item 2
-    - Sub Sub Item A
-    - Sub Sub Item B
 
 ### Links and Images
 
@@ -60,6 +58,6 @@ def hello_world():
 ##### Header 5
 ###### Header 6
 
-## Escaping Characters
+### Escaping Characters
 
 \*This text will not be italicized\*
